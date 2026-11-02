@@ -1,0 +1,5 @@
+window.APP_CONFIG = {
+  SUPABASE_URL: "https://wczlzimdjtswfebhieui.supabase.co",
+  SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Indjemx6aW1kanRzd2ZlYmhpZXVpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTM2MTUwNzAsImV4cCI6MjEwOTE5MTA3MH0.Ztd1z9FnTI9jUN2IKM2Rhd5VQmISPqfDcLIhNEkUQCE",
+  NOM_PRODUIT: "Leadivot"
+};
